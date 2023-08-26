@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "勤怠-テスト",
+    "slug": "attendance-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    }
+  }
+}
